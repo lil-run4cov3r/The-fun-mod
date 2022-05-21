@@ -1,9 +1,20 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Gfhtfhjrz",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gfhtfhjrz"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz"
+    }
   },
   "foldersRoot": {
     "name": "~",
