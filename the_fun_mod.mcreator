@@ -7,13 +7,149 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gfhtfhjrz"
+    },
+    {
+      "name": "MetalIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_ingot"
+    },
+    {
+      "name": "MetalOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_ore"
+    },
+    {
+      "name": "MetalBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_block"
+    },
+    {
+      "name": "MetalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_ore_block_recipe"
+    },
+    {
+      "name": "MetalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_block_ore_recipe"
+    },
+    {
+      "name": "MetalOreSmelting",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_ore_smelting"
+    },
+    {
+      "name": "MetalPickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pickaxe"
+    },
+    {
+      "name": "MetalAxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_axe"
+    },
+    {
+      "name": "MetalSword",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_sword"
+    },
+    {
+      "name": "MetalShovel",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_shovel"
+    },
+    {
+      "name": "MetalHoe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_hoe"
+    },
+    {
+      "name": "MetalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_pickaxe_recipe"
+    },
+    {
+      "name": "MetalAxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_axe_recipe"
+    },
+    {
+      "name": "MetalSwordRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_sword_recipe"
+    },
+    {
+      "name": "MetalShovelRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_shovel_recipe"
+    },
+    {
+      "name": "MetalHoeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_hoe_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz"
+      "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz",
+      "item.the_fun_mod.metal_ingot": "Metal",
+      "block.the_fun_mod.metal_ore": "Metal Ore",
+      "item.the_fun_mod.metal_pickaxe": "Metal Pickaxe",
+      "item.the_fun_mod.metal_sword": "Metal Sword",
+      "item.the_fun_mod.metal_axe": "Metal Axe",
+      "item.the_fun_mod.metal_hoe": "Metal Hoe",
+      "item.the_fun_mod.metal_shovel": "Metal Shovel",
+      "block.the_fun_mod.metal_block": "Block of Metal"
     }
   },
   "foldersRoot": {

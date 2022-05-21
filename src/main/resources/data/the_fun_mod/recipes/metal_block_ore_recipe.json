@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_fun_mod:metal_block"
+    }
+  ],
+  "result": {
+    "item": "the_fun_mod:metal_ingot",
+    "count": 9
+  }
+}

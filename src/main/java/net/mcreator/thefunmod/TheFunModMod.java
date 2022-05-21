@@ -27,6 +27,8 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.thefunmod.init.TheFunModModItems;
+import net.mcreator.thefunmod.init.TheFunModModFeatures;
+import net.mcreator.thefunmod.init.TheFunModModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -44,8 +46,10 @@ public class TheFunModMod {
 	public TheFunModMod() {
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		TheFunModModBlocks.REGISTRY.register(bus);
 		TheFunModModItems.REGISTRY.register(bus);
+
+		TheFunModModFeatures.REGISTRY.register(bus);
 
 	}
 
