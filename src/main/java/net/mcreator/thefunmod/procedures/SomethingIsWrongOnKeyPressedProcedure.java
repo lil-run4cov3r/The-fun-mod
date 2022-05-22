@@ -10,7 +10,7 @@ public class SomethingIsWrongOnKeyPressedProcedure {
 			Entity _ent = entity;
 			if (!_ent.level.isClientSide() && _ent.getServer() != null)
 				_ent.getServer().getCommands().performCommand(_ent.createCommandSourceStack().withSuppressedOutput().withPermission(4),
-						"say Somethings wrong...");
+						"say Voice command: Somethings wrong...");
 		}
 	}
 }

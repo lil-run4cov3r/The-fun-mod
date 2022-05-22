@@ -22,7 +22,7 @@ public class MetalAxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 8f;
+				return 45f;
 			}
 
 			public int getLevel() {
@@ -36,6 +36,6 @@ public class MetalAxeItem extends AxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(TheFunModModItems.METAL_INGOT.get()));
 			}
-		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
+		}, 1, -1.9f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
 	}
 }

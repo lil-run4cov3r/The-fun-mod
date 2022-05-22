@@ -10,7 +10,7 @@ public class SomethingIsWrongOnKeyReleasedProcedure {
 			Entity _ent = entity;
 			if (!_ent.level.isClientSide() && _ent.getServer() != null)
 				_ent.getServer().getCommands().performCommand(_ent.createCommandSourceStack().withSuppressedOutput().withPermission(4),
-						"say i can feel it...");
+						"say Voice command: i can feel it...");
 		}
 	}
 }
