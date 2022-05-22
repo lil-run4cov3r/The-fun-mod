@@ -1,12 +1,14 @@
 {
+  "block.the_fun_mod.metal_ore": "Metal Ore",
+  "item.the_fun_mod.metal_sword": "Metal Sword",
+  "item.the_fun_mod.metal_axe": "Metal Axe",
+  "key.the_fun_mod.something_is_wrong": "Chat Command: Something Is Wrong",
+  "item.the_fun_mod.metal_shovel": "Metal Shovel",
+  "key.the_fun_mod.help": "Chat commands: Help!",
   "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz",
   "item.the_fun_mod.metal_ingot": "Metal",
   "key.category.misc": "keybinds",
-  "block.the_fun_mod.metal_ore": "Metal Ore",
   "item.the_fun_mod.metal_pickaxe": "Metal Pickaxe",
-  "item.the_fun_mod.metal_sword": "Metal Sword",
-  "item.the_fun_mod.metal_axe": "Metal Axe",
   "item.the_fun_mod.metal_hoe": "Metal Hoe",
-  "item.the_fun_mod.metal_shovel": "Metal Shovel",
   "block.the_fun_mod.metal_block": "Block of Metal"
 }

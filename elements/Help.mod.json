@@ -1,0 +1,12 @@
+{
+  "_fv": 28,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD0",
+    "keyBindingName": "Chat commands: Help!",
+    "keyBindingCategoryKey": "chat_commands",
+    "onKeyPressed": {
+      "name": "EOnKeyPressed"
+    }
+  }
+}

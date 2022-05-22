@@ -1,0 +1,15 @@
+{
+  "_fv": 28,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD1",
+    "keyBindingName": "Chat Command: Something Is Wrong",
+    "keyBindingCategoryKey": "chat_commands",
+    "onKeyPressed": {
+      "name": "SomethingIsWrongOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "SomethingIsWrongOnKeyReleased"
+    }
+  }
+}
