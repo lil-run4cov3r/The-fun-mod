@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "the_fun_mod:hammer"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "the_fun_mod:metal_ingot",
+    "count": 2
+  }
+}

@@ -19,6 +19,7 @@ import net.mcreator.thefunmod.item.MetalPickaxeItem;
 import net.mcreator.thefunmod.item.MetalIngotItem;
 import net.mcreator.thefunmod.item.MetalHoeItem;
 import net.mcreator.thefunmod.item.MetalAxeItem;
+import net.mcreator.thefunmod.item.HammerItem;
 import net.mcreator.thefunmod.item.GfhtfhjrzItem;
 import net.mcreator.thefunmod.TheFunModMod;
 
@@ -33,6 +34,7 @@ public class TheFunModModItems {
 	public static final RegistryObject<Item> METAL_SWORD = REGISTRY.register("metal_sword", () -> new MetalSwordItem());
 	public static final RegistryObject<Item> METAL_SHOVEL = REGISTRY.register("metal_shovel", () -> new MetalShovelItem());
 	public static final RegistryObject<Item> METAL_HOE = REGISTRY.register("metal_hoe", () -> new MetalHoeItem());
+	public static final RegistryObject<Item> HAMMER = REGISTRY.register("hammer", () -> new HammerItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

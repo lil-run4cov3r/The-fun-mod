@@ -203,6 +203,38 @@
         ]
       },
       "path": "~/Keybinds"
+    },
+    {
+      "name": "HammerRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hammer",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer"
+    },
+    {
+      "name": "MetalIngotCraftingTable",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_ingot_crafting_table"
     }
   ],
   "variable_elements": [],
@@ -211,8 +243,8 @@
     "en_us": {
       "block.the_fun_mod.metal_ore": "Metal Ore",
       "item.the_fun_mod.metal_sword": "Metal Sword",
-      "key.the_fun_mod.something_is_wrong": "Chat Command: Something Is Wrong",
       "item.the_fun_mod.metal_axe": "Metal Axe",
+      "key.the_fun_mod.something_is_wrong": "Chat Command: Something Is Wrong",
       "item.the_fun_mod.metal_shovel": "Metal Shovel",
       "key.the_fun_mod.help": "Chat commands: Help!",
       "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz",
@@ -220,6 +252,7 @@
       "key.category.misc": "keybinds",
       "item.the_fun_mod.metal_pickaxe": "Metal Pickaxe",
       "item.the_fun_mod.metal_hoe": "Metal Hoe",
+      "item.the_fun_mod.hammer": "Hammer",
       "block.the_fun_mod.metal_block": "Block of Metal"
     }
   },
