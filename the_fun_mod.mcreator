@@ -251,8 +251,8 @@
     "en_us": {
       "block.the_fun_mod.metal_ore": "Metal Ore",
       "item.the_fun_mod.metal_sword": "Metal Sword",
-      "key.the_fun_mod.something_is_wrong": "Chat Command: Something Is Wrong",
       "item.the_fun_mod.metal_axe": "Metal Axe",
+      "key.the_fun_mod.something_is_wrong": "Chat Command: Something Is Wrong",
       "item.the_fun_mod.metal_shovel": "Metal Shovel",
       "key.the_fun_mod.help": "Chat commands: Help!",
       "item.the_fun_mod.gfhtfhjrz": "Gfhtfhjrz",
@@ -277,7 +277,8 @@
     "modid": "the_fun_mod",
     "modName": "The fun mod",
     "version": "1.0.0",
-    "author": "falls, MCreator",
+    "description": "things",
+    "author": "skib, pramaty, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -287,6 +288,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.thefunmod",
     "lockBaseModFiles": false
   },

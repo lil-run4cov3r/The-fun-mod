@@ -8,7 +8,10 @@ version="1.0.0"
 displayName="The fun mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="falls, MCreator"
+authors="skib, pramaty, MCreator"
+description='''
+things
+'''
 
 [[dependencies.the_fun_mod]]
     modId="minecraft"
